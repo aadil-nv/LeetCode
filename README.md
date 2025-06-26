@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aadil-nv/LeetCode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/aadil-nv/LeetCode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/aadil-nv/LeetCode/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/aadil-nv/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/aadil-nv/LeetCode/tree/master/0415-add-strings) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/aadil-nv/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
