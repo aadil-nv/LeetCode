@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/aadil-nv/LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aadil-nv/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/aadil-nv/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/aadil-nv/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/aadil-nv/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/aadil-nv/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/aadil-nv/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/aadil-nv/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/aadil-nv/LeetCode/tree/master/0409-longest-palindrome) |
+## Counting
+|  |
+| ------- |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/aadil-nv/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 <!---LeetCode Topics End-->
